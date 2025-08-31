@@ -1,0 +1,12 @@
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.gif
+*.webp
+data/
+datasets/
+__pycache__/
+.ipynb_checkpoints/
